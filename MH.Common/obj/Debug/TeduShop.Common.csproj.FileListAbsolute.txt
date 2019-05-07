@@ -1,0 +1,8 @@
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

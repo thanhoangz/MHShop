@@ -1,0 +1,17 @@
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\bin\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\bin\Debug\MH.Common.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\obj\Debug\MH.Common.csprojAssemblyReference.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\obj\Debug\MH.Common.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\obj\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Common\obj\Debug\MH.Common.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Common\bin\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Common\bin\Debug\MH.Common.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\bin\Debug\MH.Common.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\bin\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.csprojAssemblyReference.cache
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.csproj.CoreCompileInputs.cache
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.pdb

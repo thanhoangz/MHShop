@@ -1,0 +1,63 @@
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Service.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Service.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Data.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Model.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Common.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Data.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Data.dll.config
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Model.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\MH.Model.dll.config
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\EntityFramework.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\obj\Debug\MH.Service.csprojAssemblyReference.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\obj\Debug\MH.Service.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\obj\Debug\MH.Service.csproj.CopyComplete
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\obj\Debug\MH.Service.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\TeduShop.Service\obj\Debug\MH.Service.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Service.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Service.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Common.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Common.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.dll.config
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.pdb
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.dll.config
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\EntityFramework.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csprojAssemblyReference.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csproj.CopyComplete
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.dll
+D:\ASP.NET MVC, WebAPI v_ AngularJS\ASP.NET MVC, WebAPI và AngularJS\Sources 37 _ 49\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Service.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Service.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Common.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\EntityFramework.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Data.dll.config
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.pdb
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\MH.Model.dll.config
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\EntityFramework.xml
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csprojAssemblyReference.cache
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csproj.CoreCompileInputs.cache
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.csproj.CopyComplete
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.dll
+C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Service\obj\Debug\MH.Service.pdb
