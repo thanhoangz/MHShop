@@ -110,6 +110,7 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.AddT
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.AddContentToSlide.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.AddMoreQuantitty.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.addforeignkeyProduct.resources
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.ContactDetail.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.GenerateResource.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.CoreCompileInputs.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.CopyComplete

@@ -23,9 +23,9 @@
             CreateProductCategorySample(context);
             CreateSlide(context);
             CreatePage(context);
-           // CreateUser(context);
+            // CreateUser(context);
             //  This method will be called after migrating to the latest version.
-
+            CreateContactDetail(context);
 
 
         }
@@ -131,6 +131,44 @@
 
                     };
                     context.Pages.Add(page);
+                    context.SaveChanges();
+                }
+                catch (DbEntityValidationException ex)
+                {
+                    foreach (var eve in ex.EntityValidationErrors)
+                    {
+                        Trace.WriteLine($"Entity of type \"{eve.Entry.Entity.GetType().Name}\" in state \"{eve.Entry.State}\" has the following validation error.");
+                        foreach (var ve in eve.ValidationErrors)
+                        {
+                            Trace.WriteLine($"- Property: \"{ve.PropertyName}\", Error: \"{ve.ErrorMessage}\"");
+                        }
+                    }
+                }
+
+            }
+        }
+
+
+        private void CreateContactDetail(MHShopDbContext context)
+        {
+            if (context.ContactDetails.Count() == 0)
+            {
+                try
+                {
+                    var contactDetail = new MH.Model.Models.ContactDetail()
+                    {
+                        Name = "Shop thời trang MINHHIEU",
+                        Address = " 125 Lý Thánh Tông - Vạn Sơn - Đồ Sơn",
+                        Email = "minhhieushop@gmail.com",
+                        Lat = 20.713381,   //20.713381, 106.785339
+                        Lng = 106.785339,
+                        Phone = "095423233",
+                        Website = "http://minhhieushop.com.vn",
+                        Other = "",
+                        Status = true
+
+                    };
+                    context.ContactDetails.Add(contactDetail);
                     context.SaveChanges();
                 }
                 catch (DbEntityValidationException ex)
