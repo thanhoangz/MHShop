@@ -111,6 +111,8 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.AddC
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.AddMoreQuantitty.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.addforeignkeyProduct.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.ContactDetail.resources
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.Feedback.resources
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.Migrations.Feedback2.resources
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.GenerateResource.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.CoreCompileInputs.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Data\obj\Debug\MH.Data.csproj.CopyComplete

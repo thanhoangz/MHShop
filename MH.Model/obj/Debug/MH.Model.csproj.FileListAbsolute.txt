@@ -57,6 +57,7 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\bin\Debug\EntityFramework.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\obj\Debug\MH.Model.csprojAssemblyReference.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\obj\Debug\MH.Model.csproj.CoreCompileInputs.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\obj\Debug\MH.Model.csproj.CopyComplete
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Model\obj\Debug\MH.Model.dll

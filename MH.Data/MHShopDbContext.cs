@@ -39,6 +39,8 @@ namespace MH.Data
         public DbSet<Error> Errors { set; get; }
 
         public DbSet<ContactDetail> ContactDetails { set; get; }
+
+        public DbSet<Feedback> Feedbacks { set; get; }
         public static MHShopDbContext Create()
         {
             return new MHShopDbContext();

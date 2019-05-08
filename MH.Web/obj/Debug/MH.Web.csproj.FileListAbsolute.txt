@@ -111,6 +111,8 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Autofac.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Autofac.Integration.Mvc.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Autofac.Integration.WebApi.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\AutoMapper.dll
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\BotDetect.dll
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\BotDetect.Web.Mvc.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\CKFinder.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\EntityFramework.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\EntityFramework.SqlServer.dll

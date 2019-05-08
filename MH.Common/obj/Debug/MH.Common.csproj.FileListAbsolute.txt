@@ -15,3 +15,9 @@ C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.csprojAs
 C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.csproj.CoreCompileInputs.cache
 C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.dll
 C:\Users\ThanHoang\Desktop\TeduShop_Bai47\MH.Common\obj\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\bin\Debug\MH.Common.dll
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\bin\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\obj\Debug\MH.Common.csproj.CoreCompileInputs.cache
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\obj\Debug\MH.Common.dll
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\obj\Debug\MH.Common.pdb
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Common\obj\Debug\MH.Common.csprojAssemblyReference.cache
