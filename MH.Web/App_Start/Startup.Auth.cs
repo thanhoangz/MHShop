@@ -97,7 +97,7 @@ namespace MH.Web.App_Start
                     // Could not retrieve the user due to error.
                     context.SetError("server_error");
                     context.Rejected();
-                    return;
+                    return; 
                 }
                 if (user != null)
                 {
