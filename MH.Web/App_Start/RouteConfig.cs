@@ -22,10 +22,10 @@ namespace MH.Web
          namespaces: new string[] { "MH.Web.Controllers" }
      );
             routes.MapRoute(
-           name: "About",
-           url: "gioi-thieu.html",
-           defaults: new { controller = "About", action = "Index", id = UrlParameter.Optional },
-           namespaces: new string[] { "MH.Web.Controllers" }
+           name: "Page",
+           url: "trang/{alias}.html",
+           defaults: new { controller = "Page", action = "Index", alias = UrlParameter.Optional },
+           namespaces: new string[] { "TeduShop.Web.Controllers" }
        );
             routes.MapRoute(
              name: "Product Category",
