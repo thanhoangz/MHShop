@@ -135,6 +135,7 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Owin.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Net.Http.Formatting.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Helpers.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.dll
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.Owin.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.WebHost.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Mvc.dll
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Optimization.dll
@@ -165,6 +166,9 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Microsoft.Owin.Host.SystemWeb.
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Microsoft.Owin.Security.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.xml
+C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.Owin.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Helpers.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Mvc.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Optimization.xml
@@ -174,8 +178,6 @@ C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.WebPages.Deployment
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.WebPages.Razor.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Antlr3.Runtime.pdb
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\Newtonsoft.Json.xml
-C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Net.Http.Formatting.xml
-C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\bin\System.Web.Http.WebHost.xml
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\obj\Debug\MH.Web.csprojAssemblyReference.cache
 C:\Users\ThanHoang\Source\Repos\MHShop\MH.Web\obj\Debug\MH.Web.csproj.CoreCompileInputs.cache
