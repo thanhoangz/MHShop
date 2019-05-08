@@ -52,7 +52,7 @@ namespace MH.Web.Controllers
         public ActionResult Header()
         {
             return PartialView();
-        }
+        } 
 
         [ChildActionOnly]
         public ActionResult Category()
